@@ -101,12 +101,8 @@ SIM   : 0.91
 - 🔥 Better grammar correction using LanguageTool API  
 - 📊 Advanced evaluation dashboard  
 - 💾 Save paraphrased outputs as dataset  
-- ⚡ Faster inference optimization  
-
-## 👨‍💻 Author
-
-Jincy Jos  
-
+- ⚡ Faster inference optimization
+- 
 ## 📜 License
 
 This project is licensed under the MIT License.
